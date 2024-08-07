@@ -3,8 +3,9 @@
 # A job listing platform for various job opportunities
 
 ## Screenshots
-
+[screen-capturesign.webm](https://github.com/user-attachments/assets/f854fad9-105a-495c-820c-eef971dcc304)
 ## Features
+
 
 - Login
 - Client side form validation
@@ -24,6 +25,9 @@
 ## Installation
 
 -clone the project : git clone https://github.com/kalebwondimu33/jobPosting.git
+
 -cd to job-posting
+
 -npm install
+
 -npm run dev
