@@ -4,18 +4,22 @@
 
 ## Screenshots
 
-[Download and watch the demo video](./public/screenshot/screen-capture.webm)
-
 ## Features
 
--Job Listings: Display job postings with titles, descriptions, and images.
-
--Detailed View: View detailed information about each job posting, including responsibilities, ideal candidate traits, and job specifics.
+- Login
+- Client side form validation
+- Server side validation
+- Detailed View: View detailed information about each job posting, including responsibilities, ideal candidate traits, and job specifics.
+- Job Listings: Display job postings with titles, descriptions, and images.
+  Sign up
 
 ## Technologies Used
 
 - NextJS
 - Tailwind
+- next-auth
+  -Typescript
+  -Tawilwind css
 
 ## Installation
 
